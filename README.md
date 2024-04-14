@@ -3,7 +3,7 @@
 This Repo is Telegram Channel Code to help build a bot that automatically adds captions to files added to a Telegram channel Created By motech Remastered By VJ_BOTZ
 
 ### Deploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VJBots/VJ-AutoCaption-Bot)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amanpathak1/AutoCaption-Bot-Public)  
 
 ### Deploy To Render 
 
